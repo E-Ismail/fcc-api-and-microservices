@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Echcherate Ismail",
+	"description": "This is a description for the Apis and Microservices modules. ",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
